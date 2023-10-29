@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="save_button">#F80202</color>
+    <color name="clear_button">#2F40A3</color>
+    <color name="clear_button_text">#0D0E5E</color>
+    <color name="save_button_text">#0D0E5E</color>
+</resources>
